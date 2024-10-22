@@ -10,12 +10,16 @@ Ensure you have Python 3.x installed and use the `requirements.txt` file to inst
 
 1. Install the required packages:
 
+```
 pip install -r requirements.txt
 
+```
 2. Run the script:
 
+```
 python crawl_and_ner.py
 
+```
 ## Output Files
 
 * techcrunch_articles_last_year.json.gz: Compressed JSON file with the crawled articles.

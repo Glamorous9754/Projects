@@ -1,0 +1,3 @@
+Flask
+langchain_huggingface
+dotenv
